@@ -57,7 +57,7 @@
 </static>
 
 <transition type="overlay">
-<duration>7200.0</duration>
+<duration>3600.0</duration>
 <from>/usr/share/backgrounds/Mojave/11_30.jpeg</from>
 <to>/usr/share/backgrounds/Mojave/13_30.jpeg</to>
 </transition>
