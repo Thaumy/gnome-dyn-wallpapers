@@ -1,21 +1,9 @@
-# Gnome dynamic wallpaper
+# GNOME dynamic wallpapers
 
-Some dynamic wallpapers customized by myself
+Dynamic wallpapers for GNOME(42+)
 
-## Availables
+## Available wallpapers
 
-* Mojave
+* mojave-dyn
 
-## How to use
-
-> Take wallpaper "Mojave" for example, specifics may vary depending on your environment.
-
-0. clone this repo
-1. copy folder `Mojave` to `/usr/share/backgrounds/`
-2. move `/usr/share/backgrounds/Mojave/Mojave.xml` to `/usr/share/gnome-background-properties/`
-3. go Settings->Appearance->Background, select your newly added background
-4. enjoy
-
-## Notice
-
-These wallpapers were only tested in Fedora36 with Gnome42.
+## Install with Nix
