@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
-<wallpapers>
-  <wallpaper>
-    <name>Mojave</name>
-    <filename>/usr/share/backgrounds/Mojave/background.xml</filename>
-    <options>zoom</options>
-  </wallpaper>
-</wallpapers>
