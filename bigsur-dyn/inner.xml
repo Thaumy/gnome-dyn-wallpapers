@@ -1,0 +1,70 @@
+<background>
+
+  <starttime>
+    <year>2023</year>
+    <month>12</month>
+    <day>20</day>
+    <hour>05</hour>
+    <minute>00</minute>
+    <second>00</second>
+  </starttime>
+
+  <transition type="overlay">
+    <duration>3600.0</duration>
+    <from>ROOT/pics/5.jpeg</from>
+    <to>ROOT/pics/6.jpeg</to>
+  </transition>
+
+  <transition type="overlay">
+    <duration>3600.0</duration>
+    <from>ROOT/pics/6.jpeg</from>
+    <to>ROOT/pics/7.jpeg</to>
+  </transition>
+
+  <transition type="overlay">
+    <duration>7200.0</duration>
+    <from>ROOT/pics/7.jpeg</from>
+    <to>ROOT/pics/9.jpeg</to>
+  </transition>
+
+  <transition type="overlay">
+    <duration>10800.0</duration>
+    <from>ROOT/pics/9.jpeg</from>
+    <to>ROOT/pics/12.jpeg</to>
+  </transition>
+
+  <static>
+    <duration>7200.0</duration>
+    <file>ROOT/pics/12.jpeg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>10800.0</duration>
+    <from>ROOT/pics/12.jpeg</from>
+    <to>ROOT/pics/17.jpeg</to>
+  </transition>
+
+  <transition type="overlay">
+    <duration>3600.0</duration>
+    <from>ROOT/pics/17.jpeg</from>
+    <to>ROOT/pics/18.jpeg</to>
+  </transition>
+  
+  <transition type="overlay">
+    <duration>10800.0</duration>
+    <from>ROOT/pics/18.jpeg</from>
+    <to>ROOT/pics/24.jpeg</to>
+  </transition>
+
+  <static>
+    <duration>25200.0</duration>
+    <file>ROOT/pics/24.jpeg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>3600.0</duration>
+    <from>ROOT/pics/24.jpeg</from>
+    <to>ROOT/pics/5.jpeg</to>
+  </transition>
+
+</background>
