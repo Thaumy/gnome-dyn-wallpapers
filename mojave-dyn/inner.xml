@@ -11,103 +11,103 @@
 
   <transition type="overlay">
     <duration>7200.0</duration>
-    <from>ROOT/pics/2.jpeg</from>
-    <to>ROOT/pics/4.jpeg</to>
+    <from>ROOT/pics/2.jpg</from>
+    <to>ROOT/pics/4.jpg</to>
   </transition>
   
   <transition type="overlay">
     <duration>5400.0</duration>
-    <from>ROOT/pics/4.jpeg</from>
-    <to>ROOT/pics/5_30.jpeg</to>
+    <from>ROOT/pics/4.jpg</from>
+    <to>ROOT/pics/5_30.jpg</to>
   </transition>
   
   <transition type="overlay">
     <duration>3600.0</duration>
-    <from>ROOT/pics/5_30.jpeg</from>
-    <to>ROOT/pics/6_30.jpeg</to>
+    <from>ROOT/pics/5_30.jpg</from>
+    <to>ROOT/pics/6_30.jpg</to>
   </transition>
   
   <transition type="overlay">
     <duration>1800.0</duration>
-    <from>ROOT/pics/6_30.jpeg</from>
-    <to>ROOT/pics/7.jpeg</to>
+    <from>ROOT/pics/6_30.jpg</from>
+    <to>ROOT/pics/7.jpg</to>
   </transition>
   
   <transition type="overlay">
     <duration>3600.0</duration>
-    <from>ROOT/pics/7.jpeg</from>
-    <to>ROOT/pics/8.jpeg</to>
+    <from>ROOT/pics/7.jpg</from>
+    <to>ROOT/pics/8.jpg</to>
   </transition>
   
   <transition type="overlay">
     <duration>7200.0</duration>
-    <from>ROOT/pics/8.jpeg</from>
-    <to>ROOT/pics/10.jpeg</to>
+    <from>ROOT/pics/8.jpg</from>
+    <to>ROOT/pics/10.jpg</to>
   </transition>
   
   <transition type="overlay">
     <duration>5400.0</duration>
-    <from>ROOT/pics/10.jpeg</from>
-    <to>ROOT/pics/11_30.jpeg</to>
+    <from>ROOT/pics/10.jpg</from>
+    <to>ROOT/pics/11_30.jpg</to>
   </transition>
   
   <static>
     <duration>3600.0</duration>
-    <file>ROOT/pics/11_30.jpeg</file>
+    <file>ROOT/pics/11_30.jpg</file>
   </static>
   
   <transition type="overlay">
     <duration>3600.0</duration>
-    <from>ROOT/pics/11_30.jpeg</from>
-    <to>ROOT/pics/13_30.jpeg</to>
+    <from>ROOT/pics/11_30.jpg</from>
+    <to>ROOT/pics/13_30.jpg</to>
   </transition>
   
   <transition type="overlay">
     <duration>5400.0</duration>
-    <from>ROOT/pics/13_30.jpeg</from>
-    <to>ROOT/pics/15.jpeg</to>
+    <from>ROOT/pics/13_30.jpg</from>
+    <to>ROOT/pics/15.jpg</to>
   </transition>
   
   <transition type="overlay">
     <duration>3600.0</duration>
-    <from>ROOT/pics/15.jpeg</from>
-    <to>ROOT/pics/16.jpeg</to>
+    <from>ROOT/pics/15.jpg</from>
+    <to>ROOT/pics/16.jpg</to>
   </transition>
   
   <transition type="overlay">
     <duration>3600.0</duration>
-    <from>ROOT/pics/16.jpeg</from>
-    <to>ROOT/pics/17.jpeg</to>
+    <from>ROOT/pics/16.jpg</from>
+    <to>ROOT/pics/17.jpg</to>
   </transition>
   
   <transition type="overlay">
     <duration>3600.0</duration>
-    <from>ROOT/pics/17.jpeg</from>
-    <to>ROOT/pics/18.jpeg</to>
+    <from>ROOT/pics/17.jpg</from>
+    <to>ROOT/pics/18.jpg</to>
   </transition>
   
   <transition type="overlay">
     <duration>3600.0</duration>
-    <from>ROOT/pics/18.jpeg</from>
-    <to>ROOT/pics/19.jpeg</to>
+    <from>ROOT/pics/18.jpg</from>
+    <to>ROOT/pics/19.jpg</to>
   </transition>
   
   <transition type="overlay">
     <duration>7200.0</duration>
-    <from>ROOT/pics/19.jpeg</from>
-    <to>ROOT/pics/21.jpeg</to>
+    <from>ROOT/pics/19.jpg</from>
+    <to>ROOT/pics/21.jpg</to>
   </transition>
   
   <transition type="overlay">
     <duration>7200.0</duration>
-    <from>ROOT/pics/21.jpeg</from>
-    <to>ROOT/pics/23.jpeg</to>
+    <from>ROOT/pics/21.jpg</from>
+    <to>ROOT/pics/23.jpg</to>
   </transition>
   
   <transition type="overlay">
     <duration>10800.0</duration>
-    <from>ROOT/pics/23.jpeg</from>
-    <to>ROOT/pics/2.jpeg</to>
+    <from>ROOT/pics/23.jpg</from>
+    <to>ROOT/pics/2.jpg</to>
   </transition>
 
 </background>
