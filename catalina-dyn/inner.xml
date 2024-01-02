@@ -53,7 +53,7 @@
   <transition type="overlay">
     <duration>7200.0</duration>
     <from>ROOT/pics/19.jpg</from>
-    <to>ROOT/pics/21.jpg</to>
+    <to>ROOT/pics/24.jpg</to>
   </transition>
   
   <static>
